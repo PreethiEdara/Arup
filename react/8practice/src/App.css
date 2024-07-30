@@ -1,0 +1,24 @@
+*{
+  background-color: white;
+  color: black;
+  
+}
+
+.form{
+  margin: auto;
+  justify-content: center;
+  max-width: 500px;
+  /* padding: 20px; */
+
+}
+
+button{
+  color: white;
+  background-color: rgb(43, 120, 236);
+  margin: 20px;
+}
+
+input{
+  margin: 1px;
+}
+

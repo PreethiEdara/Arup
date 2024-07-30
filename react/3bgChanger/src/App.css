@@ -1,0 +1,34 @@
+.main{
+  width:2000px;
+  height: 2000px;
+  justify-content: center;
+  background-color: olive;
+}
+
+.bars{
+  background-color: white;
+  border-radius: 1px;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  padding: 10px;
+  position: fixed;
+  bottom: 12px;
+  inset: 2;
+  gap: 30px;
+
+}
+
+.bar{
+  padding: 5px 2px;
+  border-radius: 2px;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  outline: none;
+}
+
+button{
+  outline: none;
+  border-radius: 2px;
+}
